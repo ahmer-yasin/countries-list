@@ -1,19 +1,20 @@
 {
-  "name": "countries-list",
-  "version": "0.0.1",
+  "name": "countries-data-list",
+  "version": "1.0.0",
   "description": "Maps ISO 3166-1-alpha-2 codes to English country names and vice versa.",
   "main": "country-list.js",
   "files": [
     "data.json"
   ],
-  "dependencies": {},
   "devDependencies": {
+    "release-it": "^14.13.0",
     "standard": "^13.1.0",
     "tap": "^14.6.1"
   },
   "scripts": {
     "pretest": "standard",
-    "test": "tap test/*.js --100"
+    "test": "tap test/*.js --100",
+    "release": "release-it"
   },
   "repository": {
     "type": "git",
