@@ -86,7 +86,7 @@ Returns an array of all country information, in the same format as it gets impor
 ## Install
 
 ``` cli
-npm install country-list
+npm install country-data-list
 ```
 
 ## Related Projects
