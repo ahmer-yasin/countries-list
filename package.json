@@ -1,6 +1,6 @@
 {
   "name": "countries-data-list",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Maps ISO 3166-1-alpha-2 codes to English country names and vice versa.",
   "main": "country-list.js",
   "files": [
