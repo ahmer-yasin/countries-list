@@ -1,15 +1,13 @@
-# country-list
+# country-data-list
 
-[![Build Status](https://travis-ci.com/fannarsh/country-list.svg?branch=master)](https://travis-ci.com/fannarsh/country-list) [![Coverage Status](https://coveralls.io/repos/github/fannarsh/country-list/badge.svg?branch=master)](https://coveralls.io/github/fannarsh/country-list?branch=master)
+[![Build Status](https://travis-ci.com/ahmer-yasin/countries-list.svg?branch=master)](https://travis-ci.com/ahmer-yasin/countries-list) [![Coverage Status](https://coveralls.io/repos/github/ahmer-yasin/countries-list/badge.svg?branch=master)](https://coveralls.io/github/ahmer-yasin/countries-list?branch=master)
 
 Maps ISO 3166-1-alpha-2 codes to English country names and vice versa.
 
 Uses data from https://www.iso.org/iso-3166-country-codes.html
 
-[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
-
 ### Looking for Version 1
-You can find version 1.* of country-list [here](https://github.com/fannarsh/country-list/tree/1.x).
+You can find version 1.* of country-list [here](https://github.com/ahmer-yasin/countries-list/tree/1.x).
 
 ## Example
 
